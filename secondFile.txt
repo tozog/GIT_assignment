@@ -1,3 +1,4 @@
 This is the initial contents
+This is UserB's change
 of the second file that comprises
 our most excellent project.
